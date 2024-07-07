@@ -1,0 +1,13 @@
+{
+  "name": "100-days-of-coding-challenge",
+  "version": "1.0.0",
+  "description": "Starting the 100 days of coding challenge.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
